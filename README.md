@@ -1,2 +1,2 @@
 # SI-GO-BRRR
-BRRRRRRRRRRRRRRRRRRR GAAAAAAAAAAAAAAAAAA
+Repositorio creado para el proyecto del curso de Sistemas de Información
